@@ -97,12 +97,14 @@ body{
     .container{
         display: block;
         text-align: center;
-        height: 330px;
+        
     
     }
     .imagen{
-        width: 250px;
-        height: 180px;
+        width: 60%;
+    }
+    .titulo{
+        font-size: 2.2rem;
     }
     .rodape .contato {
         padding-bottom: 50px;
