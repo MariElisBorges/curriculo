@@ -118,8 +118,7 @@ body{
         font-size: 1rem;
     }
     .rodape a {
-        display: block;
-        justify-content: center;
+        justify-content:left;
     
     }
     .conteudo{
